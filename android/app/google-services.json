@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409118957701",
+    "project_id": "mission-greener",
+    "storage_bucket": "mission-greener.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409118957701:android:f0182513cc29eb496ec9ec",
+        "android_client_info": {
+          "package_name": "com.missiongreener.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0ZrA-Z1rSom4ipJ0a063KzA7f9uIAIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
